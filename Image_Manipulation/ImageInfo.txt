@@ -1,0 +1,5 @@
+Image width: 3264
+Image height: 2448
+Total pixels: 7990272
+Filename: MedianBlended.ppm
+Colour depth: 24 Bit colour
